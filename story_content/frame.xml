@@ -1,0 +1,1405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00000000111" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="false" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns10111000111" font="Open Sans" controllayout="npnxnanbsnfns10111000111" colorscheme="npnxnanbnsnfns00000000111" string_table="npnxnanbnsnfns00000000111" />
+    <layout name="pxabnsnfns10111000111" font="Open Sans" controllayout="pxabnsnfns10111000111" colorscheme="npnxnanbnsnfns00000000111" string_table="npnxnanbnsnfns00000000111" />
+    <layout name="npxnabnsnfns10111000111" font="Open Sans" controllayout="npxnabnsnfns10111000111" colorscheme="npnxnanbnsnfns00000000111" string_table="npnxnanbnsnfns00000000111" />
+    <layout name="npnxnanbnsnfns10111000111" font="Open Sans" controllayout="npnxnanbnsnfns10111000111" colorscheme="npnxnanbnsnfns00000000111" string_table="npnxnanbnsnfns00000000111" />
+    <layout name="pxabnsnfns10111000110" font="Open Sans" controllayout="pxabnsnfns10111000110" colorscheme="npnxnanbnsnfns00000000111" string_table="npnxnanbnsnfns00000000111" />
+    <layout name="npnxnanbnsnfns00000000111" font="Open Sans" controllayout="npnxnanbnsnfns00000000111" colorscheme="npnxnanbnsnfns00000000111" string_table="npnxnanbnsnfns00000000111" />
+    <layout name="npnxnanbnsnfns10110000111" font="Open Sans" controllayout="npnxnanbnsnfns10110000111" colorscheme="npnxnanbnsnfns00000000111" string_table="npnxnanbnsnfns00000000111" />
+    <layout name="pxabnsnfns10110000111" font="Open Sans" controllayout="pxabnsnfns10110000111" colorscheme="npnxnanbnsnfns00000000111" string_table="npnxnanbnsnfns00000000111" />
+    <layout name="pxabnsnfns00000000111" font="Open Sans" controllayout="pxabnsnfns00000000111" colorscheme="npnxnanbnsnfns00000000111" string_table="npnxnanbnsnfns00000000111" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Oakmoss College Interview Training Course" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="false">
+            <options />
+          </option>
+          <option name="sidebar_enabled" value="false">
+            <options>
+              <option name="sidebarpos" value="left" />
+              <option name="closed" value="false" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="false" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="true" />
+          <option name="seekbar" value="true">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="true" />
+          <option name="replay" value="true" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="true">
+            <options>
+              <option name="font" value="Open Sans" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns10111000111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns10111000111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns10111000111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns10111000111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns10111000110">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns00000000111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="false">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns10110000111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="false">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns10110000111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="false">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns00000000111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="false">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxnanbnsnfns00000000111">
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x909090" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDBDBDB" alpha="100" stop="0" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xDEDEDE" alpha="100" stop="0" />
+                <color rgb="0xE8E8E8" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF6F6F6" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0xB2B2B2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCBCBCB" alpha="100" stop="0" />
+                <color rgb="0xBABABA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9D9D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7A7A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+                <color rgb="0xEEEEEE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC6C6C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF9F9F9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0E0E0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5A5A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD4D4D4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC8C8C8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBCBCBC" alpha="100" stop="0" />
+                <color rgb="0xBCBCBC" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxnanbnsnfns00000000111">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="action">Action</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="togglezoom">Switch zoom modes</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_toggle">Search</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="search">Search...</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Back to top</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Open Sans">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.5vJoIi1etZH" displaytext="Introduction" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5vJoIi1etZH.5pXuYdzOGoe" displaytext="Landing page" expand="false" type="slide" />
+            <slidelink slideid="_player.5vJoIi1etZH.5Z5eNIRdyUk" displaytext="Introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.5vJoIi1etZH.6fNOs6hs3vF" displaytext="Scenario-Based Start" expand="false" type="slide" />
+            <slidelink slideid="_player.5vJoIi1etZH.6XdIaXnXlBZ" displaytext="Scenario-Based Cont'd" expand="false" type="slide" />
+            <slidelink slideid="_player.5vJoIi1etZH.5xfyQ7aURi7" displaytext="Scenario-Based End" expand="false" type="slide" />
+            <slidelink slideid="_player.5vJoIi1etZH.5nCVqgee3uT" displaytext="Instructor Introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.5vJoIi1etZH.5t8YrCNAZfc" displaytext="learning objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.5vJoIi1etZH.5nN6eBjrvuv" displaytext="menu" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6l0Ut5EJj4j" displaytext="Attire Selection" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6l0Ut5EJj4j.5dofOwblMmG" displaytext="Dressing" expand="false" type="slide" />
+            <slidelink slideid="_player.6l0Ut5EJj4j.5sC7dhFffSk" displaytext="Activity" expand="false" type="slide" />
+            <slidelink slideid="_player.6l0Ut5EJj4j.6Tygao7LORG" displaytext="Activity" expand="false" type="slide" />
+            <slidelink slideid="_player.6l0Ut5EJj4j.6cRzTrKiKFo" displaytext="Gallery" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6QCKls6cqIm" displaytext="Greeting and Interacting with interviewer" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6QCKls6cqIm.62pgOiu3veX" displaytext="greeting and interacting " expand="false" type="slide" />
+            <slidelink slideid="_player.6QCKls6cqIm.5blQi53YtZC" displaytext="Importance of Greeting" expand="false" type="slide" />
+            <slidelink slideid="_player.6QCKls6cqIm.6Rc22yFqiJM" displaytext="handshake and eye contact" expand="false" type="slide" />
+            <slidelink slideid="_player.6QCKls6cqIm.5sBFtaDNITH" displaytext="Handshake Video" expand="false" type="slide" />
+            <slidelink slideid="_player.6QCKls6cqIm.5Y3ITwnbBez" displaytext="Measure Firmness of Handshake " expand="false" type="slide" />
+            <slidelink slideid="_player.6QCKls6cqIm.6N5IED47N64" displaytext="hanshake video two" expand="false" type="slide" />
+            <slidelink slideid="_player.6QCKls6cqIm.618cNHrhBSt" displaytext="Eye Contact" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.64ea5VaXCyq" displaytext="Effective Interview Communication Skills" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.64ea5VaXCyq.5kzOj2W3LON" displaytext="STAR method" expand="false" type="slide" />
+            <slidelink slideid="_player.64ea5VaXCyq.66HAY0c1Dtd" displaytext="Effective Interview Communication" expand="false" type="slide" />
+            <slidelink slideid="_player.64ea5VaXCyq.5iumwUwOIZM" displaytext="Interactivity" expand="false" type="slide" />
+            <slidelink slideid="_player.64ea5VaXCyq.6JO9SU5Hxr5" displaytext="Question1" expand="false" type="slide" />
+            <slidelink slideid="_player.64ea5VaXCyq.6BxQiulQAgs" displaytext="Question2" expand="false" type="slide" />
+            <slidelink slideid="_player.64ea5VaXCyq.6FGuyU5I4B0" displaytext="Question 3" expand="false" type="slide" />
+            <slidelink slideid="_player.64ea5VaXCyq.5VeUiffmguj" displaytext="Behavioral question" expand="false" type="slide" />
+            <slidelink slideid="_player.64ea5VaXCyq.62GmHmCufOr" displaytext="Example of STAR method response 1" expand="false" type="slide" />
+            <slidelink slideid="_player.64ea5VaXCyq.5UxZGkkBVtK" displaytext="Example of STAR response 2" expand="false" type="slide" />
+            <slidelink slideid="_player.64ea5VaXCyq.6CHgXV9jL4c" displaytext="Example of STAR response 3" expand="false" type="slide" />
+            <slidelink slideid="_player.64ea5VaXCyq.6PkqSxAipY6" displaytext="Conversation 1" expand="false" type="slide" />
+            <slidelink slideid="_player.64ea5VaXCyq.68OOLQffccG" displaytext="Conversation 2" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6C0W1npRmfQ" displaytext="Practice Formulating of Interview Questions" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6C0W1npRmfQ.67rH8lVVIIC" displaytext="Importance of Formulating Question for an interview" expand="false" type="slide" />
+            <slidelink slideid="_player.6C0W1npRmfQ.686l8Ahggcp" displaytext="Example of Job Description" expand="false" type="slide" />
+            <slidelink slideid="_player.6C0W1npRmfQ.6pp3jdUWuJQ" displaytext="Steps of formulating questions" expand="false" type="slide" />
+            <slidelink slideid="_player.6C0W1npRmfQ.6KtnAFff2WR" displaytext="Example of formulated questions based on STAR method" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.69hW0Npi5Zf" displaytext="Quiz" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.69hW0Npi5Zf.6kTx7nAp2Yh" displaytext="Q1" expand="false" type="slide" />
+            <slidelink slideid="_player.69hW0Npi5Zf.6l3OxVrI0m4" displaytext="Q2" expand="false" type="slide" />
+            <slidelink slideid="_player.69hW0Npi5Zf.5mTfCRThACP" displaytext="Q3" expand="false" type="slide" />
+            <slidelink slideid="_player.69hW0Npi5Zf.6daZUlhz9Rl" displaytext="Q4" expand="false" type="slide" />
+            <slidelink slideid="_player.69hW0Npi5Zf.6QEBnU10NTu" displaytext="Q5" expand="false" type="slide" />
+            <slidelink slideid="_player.69hW0Npi5Zf.67YjRbfb1A3" displaytext="Q6" expand="false" type="slide" />
+            <slidelink slideid="_player.69hW0Npi5Zf.62GhzcX0iUk" displaytext="Q7" expand="false" type="slide" />
+            <slidelink slideid="_player.69hW0Npi5Zf.6F9ywDtNK5B" displaytext="Q8" expand="false" type="slide" />
+            <slidelink slideid="_player.69hW0Npi5Zf.69qO2xYCOqJ" displaytext="Q9" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="5vJoIi1etZH.5pXuYdzOGoe" slidebank="false" type="slide">  acing your job interview  unlock your potential, shine in every interview!           loading developed by: tope michael ologunada</slidetext>
+      <slidetext slideid="5vJoIi1etZH.5Z5eNIRdyUk" slidebank="false" type="slide">  tips for success in job opportunities unlock your potential, shine in every interview!  welcome to oakmoss college, where our commitment lies in cultivating individuals who will shape the future of their generation. at oakmoss, we're dedicated to molding individuals into capable leaders who will make a meaningful impact on society. we believe in empowering our students to become agents of positive change, equipped with the skills, knowledge, and character needed to transform their communities and beyond. as part of our mission, we strive to provide resources and support to ensure every student reaches their full potential. that's why we're excited to introduce this elearning course, designed to prepare you for success in your internship interviews. whether you're embarking on your first professional interview or looking to refine your skills, this course is tailored to empower you with the essential tools and strategies needed to excel.  for an enriched learning experience, this course features engaging audio, captivating images and graphics throughout. click the 'start' button to begin you’re the course.  start developed by: tope michael ologunada</slidetext>
+      <slidetext slideid="5vJoIi1etZH.6fNOs6hs3vF" slidebank="false" type="slide">   next   meet dorcas, a recent graduate of computer science who is preparing for her very first interview at oakmoss college. as she sits in her room, surrounded by stacks of interview preparation books and articles, dorcas feels a wave of nervousness wash over her. she's unsure of what to expect and feels overwhelmed by the prospect of facing the interview panel. developed by: tope michael ologunada</slidetext>
+      <slidetext slideid="5vJoIi1etZH.6XdIaXnXlBZ" slidebank="false" type="slide">   next   adding to her stress is the dilemma of what to wear. dorcas paces back and forth in front of her closet, agonizing over the perfect outfit that strikes the balance between professionalism and personal style. with each passing minute, her anxiety only seems to mount. developed by: tope michael ologunada</slidetext>
+      <slidetext slideid="5vJoIi1etZH.5xfyQ7aURi7" slidebank="false" type="slide">   next   as the day of the interview draws nearer, dorcas finds herself plagued by a barrage of questions: how should she greet the interviewer? what's the appropriate way to answer difficult questions? how can she ensure she leaves a positive impression? developed by: tope michael ologunada</slidetext>
+      <slidetext slideid="5vJoIi1etZH.5nCVqgee3uT" slidebank="false" type="slide">   next   hey there, i'm michael, and i'll be your guide through this course. i understand you might be feeling the same uncertainties dorcas experienced, but don't worry – we've got the answers you're looking for right here, ready to address your concerns head-on. throughout this journey, not only will we tackle your questions, but we'll also equip you with essential knowledge. you'll learn about the best attire to wear, master the art of greeting the interviewer, and even build the confidence to engage effectively during the interview. so, get ready to dive in, because by the end of this course, you'll be well-prepared and empowered to tackle your next interview with confidence! hey there, i'm michael, and i'll be your guide through this course. i understand you might be feeling the same uncertainties dorcas experienced, but don't worry – we've got the answers you're looking for right here, ready to address your concerns head-on. developed by: tope michael ologunada</slidetext>
+      <slidetext slideid="5vJoIi1etZH.5t8YrCNAZfc" slidebank="false" type="slide">  learning objectives  next  after completing your course, learners should be able to complete one or more of the following objectives:  identify the four components of a star method response (situation, task, action, and result) provide concise, targeted responses to interview questions in the star method format greet the interviewer confidently (with a firm handshake and eye contact) ask follow-up questions about the role and/or organization select interview-appropriate attire for a business setting (business casual-to-formal) developed by: tope michael ologunada</slidetext>
+      <slidetext slideid="5vJoIi1etZH.5nN6eBjrvuv" slidebank="false" type="slide"> continue in this session, you'll learn how to craft interview likely questions based on a job description.    practice questions  continue in this session, you'll learn about effective interview communication using the star method. this method will boost your confidence and accuracy in responding to any question.    communicating  continue in this session, you'll learn the proper way to greet interviewers using nonverbal cues such as handshakes and eye contact.    greeting in this session, you will learn everything you need to know about attire selections for your next interview.  continue    dressing dressing     menu          dressing dressing greeting communicating practice questions below are the sessions covered in this course. click on each topic to navigate through the engaging and insightful content, preparing you for your next interview with confidence.  back quiz finish the course before taking the quiz </slidetext>
+      <slidetext slideid="64ea5VaXCyq.5kzOj2W3LON" slidebank="false" type="slide">   next  the star interview method is a structured approach for answering behavioral and situational interview questions. helping candidates provide clear and concise responses using real-life examples.  it stands for: situation,  task,  action, and result effective interview communication skills star method  back the star interview method is a structured approach for answering behavioral and situational interview questions. helping candidates provide clear and concise responses using real-life examples.  it stands for: situation  task action result</slidetext>
+      <slidetext slideid="64ea5VaXCyq.66HAY0c1Dtd" slidebank="false" type="slide">   next  situation: provide context about a specific challenge or situation you encountered. keep this part brief, focusing on essential details. task: describe your role or responsibility in the situation. highlight the goal or task assigned to you. action: explain the actions you took to address the challenge. focus on the most impactful steps you took, emphasizing your contributions. result: share the outcome of your actions and any lessons learned. highlight two or three main results and discuss how the experience contributed to your growth. effective interview communication skills  back situation: provide context about a specific challenge or situation you encountered. keep this part brief, focusing on essential details. task: describe your role or responsibility in the situation. highlight the goal or task assigned to you. action: explain the actions you took to address the challenge. focus on the most impactful steps you took, emphasizing your contributions. result: share the outcome of your actions and any lessons learned. highlight two or three main results and discuss how the experience contributed to your growth. star </slidetext>
+      <slidetext slideid="64ea5VaXCyq.5iumwUwOIZM" slidebank="false" type="slide">   next   back effective interview communication skills          take some time to participate in this interactive exercise. on the screen, there are three callouts representing conversations between the interviewer and candidate. click on each callout to read the interviewer's question, then select the correct candidate response for each question. finally, click on 'submit'.</slidetext>
+      <slidetext slideid="64ea5VaXCyq.6JO9SU5Hxr5" slidebank="false" type="slide">incorrect that is incorrect. please try again. try again try again try again try again try again try again  next    back effective interview communication skills     you're interviewing for the project manager position at oakmoss college, a prestigious institution known for its cutting-edge educational programs. the interviewer ask "as a project manager, you'll be responsible for ensuring that projects are completed on time. can you provide an example of a time when you successfully managed a project timeline? how did you handle any delays that arose?"  choose the wrong  response  option then click on submit    response 1 response 2 response 3  submit    try again right response  try again  the candidate's response lacks emphasis on collaboration and teamwork, focusing primarily on individual achievements. this approach does not align with the star method, which requires demonstrating how the candidate contributed to a team's success. the interviewer may perceive this response as lacking in team-oriented skills essential for the role. incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right!  you selected the correct response. continue continue continue continue continue continue  next    back effective interview communication skills     you're interviewing for the project manager position at oakmoss college, a prestigious institution known for its cutting-edge educational programs. the interviewer ask "as a project manager, you'll be responsible for ensuring that projects are completed on time. can you provide an example of a time when you successfully managed a project timeline? how did you handle any delays that arose?"  choose the wrong  response  option then click on submit    response 1 response 2 response 3  submit   the candidate effectively showcases their leadership skills and proactive approach to fostering teamwork. their responses demonstrate initiative and highlight their ability to lead a team towards a common goal, which is essential for the position. good job!!! right response  continue  next    back effective interview communication skills     you're interviewing for the project manager position at oakmoss college, a prestigious institution known for its cutting-edge educational programs. the interviewer ask "as a project manager, you'll be responsible for ensuring that projects are completed on time. can you provide an example of a time when you successfully managed a project timeline? how did you handle any delays that arose?"  choose the wrong  response  option then click on submit    response 1 response 2 response 3  submit   i am fresh graduate. i have never had any interaction with team in the past. but i think i can work perfectly with your team.  i am zealous and industrious.  response 2 wrong response   next    back effective interview communication skills     you're interviewing for the project manager position at oakmoss college, a prestigious institution known for its cutting-edge educational programs. the interviewer ask "as a project manager, you'll be responsible for ensuring that projects are completed on time. can you provide an example of a time when you successfully managed a project timeline? how did you handle any delays that arose?"  choose the wrong  response  option then click on submit    response 1 response 2 response 3  submit   absolutely. in my previous role as a marketing coordinator, i worked closely with a cross-functional team to launch a new product line. one specific instance that comes to mind is when we were tasked with organizing a product launch event within a tight deadline. my role involved coordinating with the design team to create promotional materials, collaborating with the sales team to develop a pricing strategy, and working with the logistics team to ensure the event ran smoothly. i actively participated in team meetings, shared updates on my progress, and offered support to team members when needed. by leveraging my communication skills and expertise in marketing, i played a key role in ensuring the success of the product launch event. response 1 right response   next    back effective interview communication skills     you're interviewing for the project manager position at oakmoss college, a prestigious institution known for its cutting-edge educational programs. the interviewer ask "can you provide an example of a time when you had to collaborate with a team to achieve a common goal? how did you contribute to the team's success?"  choose the response option that is inappropriate then click on submit       response 1 response 2  submit </slidetext>
+      <slidetext slideid="64ea5VaXCyq.6BxQiulQAgs" slidebank="false" type="slide">incorrect that is incorrect. please try again. try again try again try again try again try again try again  next    back effective interview communication skills     you're interviewing for the project manager position at oakmoss college, a prestigious institution known for its cutting-edge educational programs. the interviewer ask "as a project manager, you'll be responsible for ensuring that projects are completed on time. can you provide an example of a time when you successfully managed a project timeline? how did you handle any delays that arose?"  choose the wrong  response  option then click on submit    response 1 response 2 response 3  submit    this response indicates a lack of relevant experience and fails to provide a concrete example of how the candidate would manage a project with tight deadlines. it does not effectively utilize the star method or demonstrate the necessary skills for the id manager role try again right response  try again incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right!  you selected the correct response. continue continue continue continue continue continue  next    back effective interview communication skills     you're interviewing for the project manager position at oakmoss college, a prestigious institution known for its cutting-edge educational programs. the interviewer ask "as a project manager, you'll be responsible for ensuring that projects are completed on time. can you provide an example of a time when you successfully managed a project timeline? how did you handle any delays that arose?"  choose the wrong  response  option then click on submit    response 1 response 2 response 3  submit   this responses demonstrate effective planning, communication, and monitoring skills. the candidates provide a clear example of their approach to managing tight deadlines and emphasize collaboration with team members.  good job!!! right response  continue  next    back effective interview communication skills     you're interviewing for the project manager position at oakmoss college, a prestigious institution known for its cutting-edge educational programs. the interviewer ask "as a project manager, you'll be responsible for ensuring that projects are completed on time. can you provide an example of a time when you successfully managed a project timeline? how did you handle any delays that arose?"  choose the wrong  response  option then click on submit    response 1 response 2 response 3  submit   in my previous role, i managed a project with tight deadlines by first breaking down the project into smaller tasks and assigning them to team members based on their strengths and expertise. i then closely monitored progress using project management software and held regular meetings to address any issues or concerns. by maintaining open communication and providing support to team members as needed, we were able to overcome challenges and complete the project on time. response 1 right response   next    back effective interview communication skills     you're interviewing for the project manager position at oakmoss college, a prestigious institution known for its cutting-edge educational programs. the interviewer ask "as a project manager, you'll be responsible for ensuring that projects are completed on time. can you provide an example of a time when you successfully managed a project timeline? how did you handle any delays that arose?"  choose the wrong  response  option then click on submit    response 1 response 2 response 3  submit   i've never managed a project with tight deadlines before, but i'm sure i could handle it if given the opportunity. response 3 wrong response  next    back effective interview communication skills     you're interviewing for the project manager position at oakmoss college, a prestigious institution known for its cutting-edge educational programs. the interviewer ask "as a project manager, you'll be responsible for ensuring that projects are completed on time. can you provide an example of a time when you successfully managed a project timeline? how did you handle any delays that arose?"  choose the wrong  response  option then click on submit    response 1 response 2 response 3  submit   response 2 right response  in my previous role as a id manager, i was tasked with overseeing the implementation of a new software system for our company's finance department. the deadline was tight, and there was no room for error. to ensure the project was completed on time, i first conducted a thorough assessment of the project scope and requirements. i then developed a detailed project plan outlining specific tasks, timelines, and responsibilities for each team member. throughout the project, i closely monitored progress, identified potential bottlenecks, and proactively addressed any issues that arose. by maintaining open communication with team members and stakeholders, i was able to keep everyone aligned and motivated, ultimately delivering the project on schedule.    next next next    back effective interview communication skills    you are interviewing for a instructional design manager position at oakmoss college. the interviewer asks: can you provide an example of a time when you had to manage a project with tight deadlines? how did you ensure the project was completed on time?"  choose two right  responses from the options then click on submit  submit        response 1 response 3     response 2</slidetext>
+      <slidetext slideid="64ea5VaXCyq.6FGuyU5I4B0" slidebank="false" type="slide">incorrect that is incorrect. please try again. try again try again try again try again try again try again  next    back effective interview communication skills     you're interviewing for the project manager position at oakmoss college, a prestigious institution known for its cutting-edge educational programs. the interviewer ask "as a project manager, you'll be responsible for ensuring that projects are completed on time. can you provide an example of a time when you successfully managed a project timeline? how did you handle any delays that arose?"  choose the wrong  response  option then click on submit    response 1 response 2 response 3  submit    this response indicates a lack of proactive problem-solving skills and leadership qualities. avoiding conflict resolution can lead to further issues within the team and hinder project progress. try again right response  try again incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right!  you selected the correct response. continue continue continue continue continue continue  next    back effective interview communication skills     you're interviewing for the project manager position at oakmoss college, a prestigious institution known for its cutting-edge educational programs. the interviewer ask "as a project manager, you'll be responsible for ensuring that projects are completed on time. can you provide an example of a time when you successfully managed a project timeline? how did you handle any delays that arose?"  choose the wrong  response  option then click on submit    response 1 response 2 response 3  submit   these responses showcase the candidate's ability to mediate conflicts and find solutions through compromise. by fostering cooperation between team members, the candidate effectively resolved the conflict and ensured the project's progress. good job!!! right response  continue  next    back effective interview communication skills     you're interviewing for the project manager position at oakmoss college, a prestigious institution known for its cutting-edge educational programs. the interviewer ask "as a project manager, you'll be responsible for ensuring that projects are completed on time. can you provide an example of a time when you successfully managed a project timeline? how did you handle any delays that arose?"  choose the wrong  response  option then click on submit    response 1 response 2 response 3  submit   i’m a calm person and i don't like trouble. when that situation happened in my work place i avoided getting involved and hoped the conflict would resolve itself.  response 3 wrong response  next    back effective interview communication skills     you're interviewing for the project manager position at oakmoss college, a prestigious institution known for its cutting-edge educational programs. the interviewer ask "as a project manager, you'll be responsible for ensuring that projects are completed on time. can you provide an example of a time when you successfully managed a project timeline? how did you handle any delays that arose?"  choose the wrong  response  option then click on submit    response 1 response 2 response 3  submit   once, during a team project, two members had conflicting ideas on how to approach a problem. i acted as a mediator, listening to both sides and helping them find common ground. we reached a compromise that incorporated elements from both suggestions, allowing us to move forward with a unified plan. response 1 right response  next    back effective interview communication skills     you're interviewing for the project manager position at oakmoss college, a prestigious institution known for its cutting-edge educational programs. the interviewer ask "as a project manager, you'll be responsible for ensuring that projects are completed on time. can you provide an example of a time when you successfully managed a project timeline? how did you handle any delays that arose?"  choose the wrong  response  option then click on submit    response 1 response 2 response 3  submit   in my previous role, there was a disagreement between team members regarding the direction of a project. i facilitated a meeting where each team member could voice their concerns and suggestions. through open communication and collaboration, we reached a consensus that satisfied everyone's needs and allowed the project to move forward smoothly. response 2 right response  next    back effective interview communication skills     dorcas is interviewing for a graphic design manager position at oakmoss college. the interviewer asks: describe a time when you had to resolve a conflict within a team. how did you handle it?  choose two right  responses  from the options then click on submit          response 1 response 2 response 3  submit </slidetext>
+      <slidetext slideid="64ea5VaXCyq.5VeUiffmguj" slidebank="false" type="slide">   next  effective interview communication skills  back these are the common behavioral questions you might be asked during an interview: share an example of a time when you faced a difficult problem at work. how did you solve this problem? have you ever had to make an unpopular decision? how did you handle it? describe a time when you were under a lot of pressure at work. how did you react? tell me about a mistake you’ve made. how did you handle it? share an example of a time you had to make a difficult decision. what did you do? explain a situation where you used data or logic to make a recommendation. tell me about a time when you disagreed with your boss. how did you resolve it? describe a time when you had to deliver bad news. how did you do it? tell me about a time you worked with other departments to complete a project. share an example of a time when you failed. what did you learn from the experience? tell me about a time when you set and achieved a specific goal. tell me about a time when you had to persuade someone to do something. describe a time when you had a conflict with a colleague. how did you handle it? have you ever had to motivate others? how did you do it? tell me about the last time your workday ended before you were able to get everything done. common behavioral questions use the scroll bar to see the rest of the questions </slidetext>
+      <slidetext slideid="64ea5VaXCyq.62GmHmCufOr" slidebank="false" type="slide">   next  effective interview communication skills  back situation:  i was working as an intern for an events company, and i was responsible for ordering the floral arrangements for a private event hosted by a high-profile client. unfortunately, i mixed up the information from another event, and the flowers were delivered to the wrong venue on the other side of town. 1. tell me about a mistake you’ve made. how did you handle it? task: i took this very seriously and knew i needed to find a solution quickly as we were working on a tight deadline. action: after considering a few different ways to resolve the issue. i admitted my mistake to my boss and informed them of my plan and why i thought it was the best course of action. i took an early lunch break, drove to the other venue, picked up the flowers and delivered them to the appropriate venue an hour before the event. result: the client never knew about my mix-up, and my boss was very grateful.” examples of star method responses question and responses  </slidetext>
+      <slidetext slideid="64ea5VaXCyq.5UxZGkkBVtK" slidebank="false" type="slide">   next  effective interview communication skills  back situation:  i was working as a retail manager at a department store during prom season. a customer purchased a dress online and had it delivered to the store. one of my associates accidentally put the dress out on the floor, where another customer immediately purchased it. 2. share an example of a time when you faced a difficult problem at work. how did you solve this problem? task: i knew i needed to make this right for the customer to meet my own service level standards and to uphold the reputation of the company. action: before calling the customer to let her know about the mistake, i located the same dress at another store location nearby. i ordered it to be pressed and delivered to her home the morning of prom, along with a gift card to thank her for her understanding. result: the customer was so thankful, she wrote us a five-star review on several review sites. examples of star method responses question and responses  </slidetext>
+      <slidetext slideid="64ea5VaXCyq.6CHgXV9jL4c" slidebank="false" type="slide">   next  effective interview communication skills  back situation:  in my previous job as an account executive, one of my co-workers quit immediately after signing the biggest client our firm had ever taken on. 3. describe a time when you were under a lot of pressure at work. how did you react? task: although i was already managing a full load of accounts, i was assigned this new client as well. i knew the stakes were high and if we lost this deal, then we wouldn’t hit our quarterly goal. action: i first took some measures to distress. then i carefully evaluated and restructured my task list to make sure i could manage all my duties. because of this, i was able to make myself completely available to the client and i also sacrificed some evenings and weekends to take calls until the project was delivered. result:  the client was so impressed with my dedication, they immediately signed an annual contract that netted our company $5 million. examples of star method responses question and responses  </slidetext>
+      <slidetext slideid="64ea5VaXCyq.6PkqSxAipY6" slidebank="false" type="slide">   next  effective interview communication skills  back conversation between interviewer and candidate  describe a time when you had to resolve a conflict within a team. how did you handle it?"  sure, in my previous position as a project manager, there was a significant conflict that arose during the development phase of a new product." one of our team members, joshua, strongly advocated for a particular design approach, while another team member, agnes, believed strongly in an alternative approach. as the project manager, i recognized the importance of addressing the conflict promptly to ensure it didn't impact project progress or team morale. so, i scheduled a team meeting specifically to address this issue. i began by setting a positive tone and emphasizing that conflicts were natural in any collaborative environment. i encouraged john and sarah to express their viewpoints openly and assured them that their perspectives were valued. this helped to create a safe space for dialogue. i facilitated a structured discussion where each team member could share their reasoning behind their preferred approach. i actively listened to both sides, asking clarifying questions to ensure i understood their concerns fully. once all viewpoints were expressed, i guided the team towards finding common ground. we identified shared project goals and discussed how each proposed approach aligned with those goals. through this process, we were able to reach a compromise solution that incorporated elements of both approaches. john and sarah felt heard and respected, and the team emerged stronger and more united. impressive. can you provide an example of how you encouraged open communication during the meeting? sure, to encourage open communication, i employed active listening techniques, such as paraphrasing and summarizing team members' viewpoints to ensure i understood them accurately. i also encouraged non-verbal communication cues, such as nodding and maintaining eye contact, to convey empathy and understanding. furthermore, i asked open-ended questions to prompt deeper discussion and invited quieter team members to share their perspectives. thank you for sharing that. your approach to conflict resolution seems comprehensive and effective." today for a better understanding of how to respond effectively to interview questions, let's examine the conversation displayed on the screen between an interviewer and a candidate. observing this dialogue can help improve your communication skills and boost confidence during your own interview sessions. pay attention to the candidate's responses, the interviewer's cues, and how the conversation flows. use the scroll panel on the right-hand side to navigate down and see the rest of the conversation. </slidetext>
+      <slidetext slideid="64ea5VaXCyq.68OOLQffccG" slidebank="false" type="slide">   menu  effective interview communication skills  back conversation between interviewer and candidate  can you share an example of a time when you successfully led a team to achieve a challenging goal? sure. in my previous role as a id manager, i was tasked with leading a team to launch a new product within a tight deadline. we faced several challenges along the way... what were some of the main obstacles you encountered during that project? that sounds like a complex project. how did you ensure everyone stayed on track and motivated? it's crucial to keep the team motivated, indeed. can you elaborate on how you handled any setbacks that occurred during the project? the main obstacles were we had to adjust our timeline and reallocate resources to overcome those obstacles. i kept the team motivated by recognizing their efforts and providing regular updates on our progress. additionally, i encouraged open communication and collaboration to address any issues promptly. absolutely. when setbacks occurred i remained calm and focused on finding solutions. i also solicited input from team members to brainstorm alternative approaches. collaboration seems to be a key aspect of your leadership style. how do you ensure effective communication within your team? communication is essential so i implemented regular team meetings, established clear channels for sharing updates and feedback, and encouraged an open-door policy for any concerns or questions.  just that i'm committed to fostering a positive and productive work environment where team members feel valued and empowered to succeed. thank you for the opportunity to discuss my experiences. that sounds like a solid approach. thank you for sharing your insights. is there anything else you'd like to add about your leadership experience?  that's great to hear. thank you for your time today. today let's examine the second conversation displayed on the screen between an interviewer and a candidate. pay attention to the candidate's responses, the interviewer's cues, and how the conversation flows. don't forget to use the scroll panel on the right-hand side to navigate down and see the rest of the conversation. </slidetext>
+      <slidetext slideid="6QCKls6cqIm.62pgOiu3veX" slidebank="false" type="slide">  next  greeting and interacting with interviewer  back when greeting and interacting with the interviewer at an interview, remember to be polite, professional, and confident. start with a firm handshake and maintain good eye contact while introducing yourself. use a friendly tone and address the interviewer respectfully, using their title if known. throughout the interaction, listen attentively, respond thoughtfully, and engage with the interviewer by asking questions or seeking clarification when necessary. remember to thank them for the opportunity at the end of the interview and express your interest in the position. these simple gestures can leave a positive impression and set a strong foundation for the interview process.</slidetext>
+      <slidetext slideid="6QCKls6cqIm.5blQi53YtZC" slidebank="false" type="slide">   next  greetings are essential at interviews for several reasons: 1. **professionalism**: greeting the interviewer(s) shows respect and professionalism. it sets a positive tone for the interaction and demonstrates your understanding of basic etiquette. 2. **first impression**: the initial moments of an interview are crucial for forming first impressions. a polite and friendly greeting can help you make a good impression right from the start. 3. **establishing rapport**: greetings provide an opportunity to establish rapport with the interviewer(s). a warm greeting can help create a more comfortable atmosphere for both parties, which can positively influence the rest of the interview. 4. **communication skills**: greeting effectively demonstrates your communication skills. it showcases your ability to interact politely and confidently, which are important traits in any professional setting. 5. **cultural awareness**: different cultures have different customs regarding greetings. being mindful of cultural norms and adapting your greeting accordingly shows cultural sensitivity and awareness, which are valuable skills in today's diverse workplaces. overall, greetings may seem like small gestures, but they can have a significant impact on how you are perceived during an interview. why greeting is essential  at an interview  next greetings are essential at interviews for several reasons:  1. professionalism 2. first impressions 3. establishing rapport 4. communication skills 5. cultural awareness greeting and interacting with interviewer</slidetext>
+      <slidetext slideid="6QCKls6cqIm.6Rc22yFqiJM" slidebank="false" type="slide">   next  in addition, these gestures exude confidence and self-assurance, leaving a favorable impression on the interviewer. they convey a sense of composure and capability. furthermore, they facilitate the establishment of rapport with the interviewer, fostering a connection that sets a positive tone for the remainder of the interview. this, in turn, can lead to a more fruitful and engaging exchange." handshake and eye-contact in greeting handshake and eye-contact  next a firm handshake and maintaining eye contact are crucial aspects of the greeting process. non-verbal cues such as these often carry more weight than words alone, serving as hallmarks of professionalism. they indicate your grasp of interpersonal communication's significance and your adherence to social norms in professional environments. moreover, they can express your enthusiasm, interest, and respect for both the interviewer and the opportunity at hand.</slidetext>
+      <slidetext slideid="6QCKls6cqIm.5sBFtaDNITH" slidebank="false" type="slide">   next  handshakes  back  watch and consider the handshake in this video to gain a better understanding of the proper way to shake hands during an interview.</slidetext>
+      <slidetext slideid="6QCKls6cqIm.5Y3ITwnbBez" slidebank="false" type="slide">    the handshake is firm and awesome. do this in your next interview, coupled with a smile and eye contact, and you will impress the interviewer perfectly. always ensure your web touches the interviewer's hand's web. the handshake must not be too tight. great job!!! continue     oh, sorry, try again. the handshake wasn't firm enough. a professional handshake should have the hands touching at the web but not be too tight. make sure your hand is firm when shaking the interviewer's hand in your next interview. try again  try again       submit  handshakes use the slider on the screen to gauge the firmness of the handshake below. then, submit the scene with the appropriate firmness by clicking the submit button.     </slidetext>
+      <slidetext slideid="6QCKls6cqIm.6N5IED47N64" slidebank="false" type="slide">   next  handshakes once again, take some time to watch the handshakes in this video to better understand the proper way to shake hands during an interview. click on next button on completion of the video to move to next things. </slidetext>
+      <slidetext slideid="6QCKls6cqIm.618cNHrhBSt" slidebank="false" type="slide"> menu  interview eye contact  back   interview eye contact  next  back   interview eye contact  next  back   interview eye contact  next  back   next  maintaining good eye contact during an interview is crucial for demonstrating confidence, sincerity, and trustworthiness. it shows attentiveness and engagement, helping to build rapport with the interviewer and fostering a positive interaction. however, it's important to strike a balance and avoid staring too intensely or avoiding eye contact altogether. in group interviews, distribute eye contact evenly among panel members. nervousness is natural, but practice beforehand and focus on the conversation to alleviate anxiety. additionally, be mindful of cultural differences in eye contact norms. mastering the art of eye contact can enhance communication skills and leave a positive impression on the interviewer, showcasing professionalism and suitability for the position. interview eye contact</slidetext>
+      <slidetext slideid="6l0Ut5EJj4j.5dofOwblMmG" slidebank="false" type="slide">   next  attire is important for a job interview for several reasons: 1. first impressions: your appearance is the first thing that an interviewer notices about you. wearing appropriate attire shows that you are serious about the job and respect the company's culture. 2. professionalism: dressing professionally conveys that you understand the expectations of the workplace and can adhere to its standards of professionalism. it reflects positively on your ability to represent the company well. 3. confidence: wearing appropriate attire can boost your confidence during the interview. when you feel good about how you look, you are more likely to present yourself confidently and perform better during the interview. 4. respect: dressing appropriately for an interview demonstrates respect for the interviewer, the company, and the opportunity. it shows that you value the opportunity to meet with them and are taking the interview seriously. overall, attire plays a crucial role in making a positive impression and projecting professionalism during a job interview. it contributes to your overall presentation and can impact the interviewer's perception of your suitability for the role. dressing for success importance of attire for an interview  back attire is important for a job interview for several reasons: 1. first impressions 2. professionalism 3. confidence 4. respect</slidetext>
+      <slidetext slideid="6l0Ut5EJj4j.5sC7dhFffSk" slidebank="false" type="slide">incorrect that is incorrect. please try again. try again try again try again try again try again try again incorrect you did not select the correct response. continue continue continue continue continue continue    next  dressing for success activity 1: drag  and drop the choices of professional attire to create wardrobe for your next interview. assume you’re a male.     try again!!! oh sorry, you didn’t guest right. some item are not met to be part of your selection remember, avoid common mistakes such as wearing cap, slippers or sandals, leaving your shirt untucked, leaving blazer or shirt buttons undone, or opting for overly casual jeans.    continue incorrect you did not select the correct response. continue continue continue continue continue continue    next  dressing for success activity 1: drag  and drop the choices of professional attire to create wardrobe for your next interview. assume you’re a male.     try again!!! oh sorry, you didn’t guest right. some item are not met to be part of your selection remember, avoid common mistakes such as wearing slippers or sandals, leaving your shirt untucked, leaving blazer or shirt buttons undone, or opting for overly casual jeans.    continue correct that's right!  you selected the correct response. continue continue continue continue continue continue    next  dressing for success activity 1: drag  and drop the choices of professional attire to create wardrobe for your next interview. assume you’re a male.     great job!!! remember, dressing appropriately is key to making a professional impression. the selection of your attire significantly influences your appearance, making you stand out and exude confidence during your interview. regardless of the combination you choose, each item contributes to a polished and attractive ensemble. avoid common mistakes such as wearing cap, slippers or sandals, leaving your shirt untucked, leaving blazer or shirt buttons undone, or opting for overly casual jeans.   continue    submit  dressing for success activity 1: assume you’re a male, drag  and drop the professional attire materials suitable for your next interview outfit.    </slidetext>
+      <slidetext slideid="6l0Ut5EJj4j.6Tygao7LORG" slidebank="false" type="slide">incorrect that is incorrect. please try again. try again try again try again try again try again try again incorrect you did not select the correct response. incorrect you did not select the correct response.    next  dressing for success activity 1: drag  and drop the choices of professional attire to create wardrobe for your next interview. assume you’re a male.     try again!!! oh sorry, you didn’t guest right. some item are not met to be part of your selection remember, avoid common mistakes such as wearing slippers or sandals, leaving your shirt untucked, leaving blazer or shirt buttons undone, or opting for overly casual jeans.    continue incorrect you did not select the correct response. continue continue continue continue continue continue incorrect you did not select the correct response. continue continue continue continue continue continue    next  dressing for success activity 1: drag  and drop the choices of professional attire to create wardrobe for your next interview. assume you’re a male.     try again!!! oh sorry, you didn’t guest right. some item are not met to be part of your selection remember, avoid common mistakes such as wearing slippers or sandals, leaving your shirt untucked, leaving blazer or shirt buttons undone, or opting for overly casual jeans.    continue correct that's right!  you selected the correct response. continue continue continue continue continue continue correct that's right!  you selected the correct response. continue continue continue continue continue continue    next  dressing for success activity 1: drag  and drop the choices of professional attire to create wardrobe for your next interview. assume you’re a male.     great job!!! remember, dressing appropriately is key to making a professional impression. the selection of your attire significantly influences your appearance, making you stand out and exude confidence during your interview. regardless of the combination you choose, each item contributes to a polished and attractive ensemble. avoid common mistakes such as wearing slippers or sandals, leaving your shirt untucked, leaving blazer or shirt buttons undone, or opting for overly casual jeans.   continue    submit  dressing for success activity 2: assume you’re a female, drag  and drop all professional attire elements suitable for your next interview outfit.     </slidetext>
+      <slidetext slideid="6l0Ut5EJj4j.6cRzTrKiKFo" slidebank="false" type="slide">   close  dressing for success professional attire gallery  back    next  dressing for success professional attire gallery  back    close  import dressing for success professional attire gallery  back    next  import dressing for success professional attire gallery  back    menu  dressing for success   click on each image to check the attire combination suitable for them for the next interview. what’s should i wear to leave a possible impression on interviewer? what do i really need to put on for this interview? male female</slidetext>
+      <slidetext slideid="6C0W1npRmfQ.67rH8lVVIIC" slidebank="false" type="slide">   next  formulating questions for an interview is vital as it helps candidates understand the role, prepare for behavioral questions, demonstrate engagement, highlight relevant skills, and boost confidence. by anticipating inquiries, candidates can tailor responses effectively, showcase their suitability, and leave a lasting impression on the interviewer. practice formulating of interview questions how important is formulation of question for an interview?  back formulating questions for an interview is vital as it helps candidates understand the role, prepare for behavioral questions, demonstrate engagement, highlight relevant skills, and boost confidence. by anticipating inquiries, candidates can tailor responses effectively, showcase their suitability, and leave a lasting impression on the interviewer.</slidetext>
+      <slidetext slideid="6C0W1npRmfQ.686l8Ahggcp" slidebank="false" type="slide">   next   back practice formulating of interview questions  marketing intern job listing take some time to read through the job description for the marketing intern position displayed on the screen. use the scroll bar on the right-hand side to navigate the screen up and down to see more of the contents. use your pen and book to write down the questions you need to formulate from the job description. click on the next button when you are done.  internship title: marketing intern company: abc marketing solutions location: remote duration: 3 months about the company: abc marketing solutions is a leading digital marketing agency specializing in social media management, content creation, and digital advertising. we work with a diverse range of clients across various industries to help them achieve their marketing goals and drive growth. internship description: as a marketing intern at abc marketing solutions, you will have the opportunity to gain hands-on experience in various aspects of digital marketing. you will work closely with our marketing team to assist in the development and execution of marketing campaigns, conduct market research, analyze data, and contribute to content creation efforts. this internship is ideal for students or recent graduates with a strong interest in digital marketing and a desire to learn and grow in a fast-paced environment. responsibilities: - assist in the development and implementation of social media marketing strategies - conduct market research to identify industry trends and consumer insights - create engaging content for social media platforms, blog posts, and email newsletters - monitor and analyze the performance of marketing campaigns and provide insights and recommendations for optimization - collaborate with team members on various marketing projects and initiatives qualifications: - currently enrolled in a bachelor's degree program or recent graduate in marketing, communications, business, or related field - strong written and verbal communication skills - proficiency in microsoft office suite and social media platforms - ability to work independently and as part of a team - detail-oriented with excellent organizational skills benefits: - hands-on experience in digital marketing - opportunity to work with a diverse range of clients and industries - mentorship and guidance from experienced marketing professionals - flexible schedule and remote work option</slidetext>
+      <slidetext slideid="6C0W1npRmfQ.6pp3jdUWuJQ" slidebank="false" type="slide">   next   back practice formulating of interview questions  marketing intern job listing  step-by-step guide on how you can formulate questions based on the job description using the star method: 1. review the job description:    - start by carefully reading through the internship description provided by the company. highlight key responsibilities, qualifications, and any specific skills or experiences mentioned. 2. identify key tasks and responsibilities:    - pick out the main tasks and responsibilities outlined in the job description. these will serve as the basis for formulating situational questions. 3. develop situational scenarios:    - for each key task or responsibility, create situational scenarios that the intern might encounter while performing the job. these scenarios should reflect real-life challenges or situations relevant to the internship role. 4. break down each scenario using star: for each situational scenario, break it down using the star method:   - situation: describe the specific situation or challenge the intern might face.   - task: identify the task or responsibility the intern is expected to fulfill in that situation.   - action: outline the specific actions the intern should take to address the situation.   - result: determine the desired outcome or result of the intern's actions in that scenario. 5. formulate questions based on star components: - use the star components to formulate questions that prompt the candidate to provide detailed responses about how they would handle each scenario.  - situation questions: "can you describe a time when you faced specific situation described in the job description?"  - task questions: "what would be your main responsibility or task in that situation?" - action questions: "how would you approach handling the situation? what specific steps would you take?“ - result questions: "what outcome would you hope to achieve by taking those actions? how would you measure success?" 6. tailor questions to job requirements:**    - make sure the questions are tailored to the specific requirements and expectations outlined in the job description. this ensures that the candidate's responses provide relevant insights into their skills and abilities. by following these steps and using the star method, you can effectively formulate questions that assess a candidate's suitability for the internship role based on the job description.</slidetext>
+      <slidetext slideid="6C0W1npRmfQ.6KtnAFff2WR" slidebank="false" type="slide">   menu   back practice formulating of interview questions  marketing intern job listing  now, here are some questions you can formulate to ask about the role. these questions will help you gain a better understanding of the internship role and what to expect during your time at abc marketing solutions: 1. could you provide more details about the specific projects i'll be working on during this internship? 2. how will my work contribute to the overall goals of the marketing team and the company? 3. will there be opportunities for training or professional development during the internship? 4. can you tell me more about the types of tools or software i'll be using in this role? 5. how will my performance be evaluated throughout the internship? 6. are there opportunities for networking or connecting with professionals in the industry? 7. what is the typical day-to-day schedule like for a marketing intern at abc marketing solutions? 8. can you share some examples of successful marketing campaigns the company has executed in the past? 9. how does the company approach creativity and innovation in marketing strategies? 10. what are the long-term career prospects for someone who completes this internship successfully?   quiz </slidetext>
+      <slidetext slideid="69hW0Npi5Zf.6kTx7nAp2Yh" slidebank="false" type="slide">incorrect that is incorrect. please try again. try again try again try again try again try again try again incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right!  you selected the correct response. continue continue continue continue continue continue    next  which of the following steps is not part of formulating questions using the star method for interview preparation? knowledge checks situation  task  analysis  result answer is c) analysis                         </slidetext>
+      <slidetext slideid="69hW0Npi5Zf.6l3OxVrI0m4" slidebank="false" type="slide">incorrect that is incorrect. please try again. try again try again try again try again try again try again incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right!  you selected the correct response. continue continue continue continue continue continue    next  what does the "a" stand for in the star method? knowledge checks action answer  analysis  accountability answer is a                          back </slidetext>
+      <slidetext slideid="69hW0Npi5Zf.5mTfCRThACP" slidebank="false" type="slide">incorrect that is incorrect. please try again. try again try again try again try again try again try again incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right!  you selected the correct response. continue continue continue continue continue continue    next  which part of the star method requires the candidate to describe their responsibility or role in a given situation or challenge?  knowledge checks situation task  action  result answer is b                          back </slidetext>
+      <slidetext slideid="69hW0Npi5Zf.6daZUlhz9Rl" slidebank="false" type="slide">incorrect that is incorrect. please try again. try again try again try again try again try again try again incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right!  you selected the correct response. continue continue continue continue continue continue    next  why is formulating questions using the star method important for interview preparation?  knowledge checks it helps candidates understand the interviewer's perspective. it allows candidates to effectively communicate their experiences it assists candidates in structuring their responses. all of the above. answer is d                          back </slidetext>
+      <slidetext slideid="69hW0Npi5Zf.6QEBnU10NTu" slidebank="false" type="slide">incorrect that is incorrect. please try again. try again try again try again try again try again try again incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right!  you selected the correct response. continue continue continue continue continue continue    next  which of the following statements about dressing for an interview is correct?  knowledge checks casual attire is acceptable for all types of interviews. it's always best to overdress rather than underdress for an interview. wearing strong perfume or cologne can enhance your impression in an interview. dressing too formally for an interview can never be a problem.  answer is b                          back </slidetext>
+      <slidetext slideid="69hW0Npi5Zf.67YjRbfb1A3" slidebank="false" type="slide">incorrect that is incorrect. please try again. try again try again try again try again try again try again incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right!  you selected the correct response. continue continue continue continue continue continue    next  choose the appropriate elements of a professional handshake:  knowledge checks firm grip, eye contact, and a weak handshake weak grip, avoiding eye contact, and a loose handshake firm grip, maintaining eye contact, and a confident handshake weak grip, no eye contact, and a limp handshake  answer is c                          back </slidetext>
+      <slidetext slideid="69hW0Npi5Zf.62GhzcX0iUk" slidebank="false" type="slide">incorrect that is incorrect. please try again. try again try again try again try again try again try again incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right!  you selected the correct response. continue continue continue continue continue continue    next  which attire is typically suitable for a formal job interview? knowledge checks jeans and a t-shirt a tailored suit and closed-toe shoes shorts and sandals sweatpants and sneakers  answer is b                          back </slidetext>
+      <slidetext slideid="69hW0Npi5Zf.6F9ywDtNK5B" slidebank="false" type="slide">incorrect that is incorrect. please try again. try again try again try again try again try again try again incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right!  you selected the correct response. continue continue continue continue continue continue    next  which of the following is an important aspect of effective communication during an interview? knowledge checks making frequent eye contact avoiding smiling to appear serious using complex jargon to impress the interviewer speaking softly to avoid appearing overbearing  answer is a                          back </slidetext>
+      <slidetext slideid="69hW0Npi5Zf.69qO2xYCOqJ" slidebank="false" type="slide">incorrect that is incorrect. please try again. try again try again try again try again try again try again incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right!  you selected the correct response. continue continue continue continue continue continue    which of the following is a recommended way to demonstrate confidence during an interview?  knowledge checks  fidgeting with your hands or feet slouching in your chair sitting up straight and maintaining good posture avoiding making any gestures with your hands answer is c                          back   submit </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data />
+</bwFrame>
